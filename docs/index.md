@@ -33,14 +33,19 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;O projeto de Introdução à Engenharia de Software teve como objetivo desenvolver um sistema de software para a rede de fast food Pizza-Express, que apresentava queda de 30% nas vendas devido a problemas de entrega. Como nossos concorrentes conseguem entregar em menos de 30 minutos, nosso objetivo é implementar soluções que tornem a entrega mais eficiente.
+
+O diretor de dados, Elonn Muske, desenvolveu um aplicativo que detecta a loja Pizza-Express mais próxima do cliente e otimiza o pedido. Este projeto envolve a criação de uma loja de varejo sem local de varejo, com o objetivo de receber, preparar e enviar pedidos em 10 a 15 minutos.
+A equipe deverá atuar de forma profissional e colaborativa, consciente da importância do trabalho para o futuro da Pizza-Express, e atender à urgência declarada pelo patrocinador Papa-Léguas Shipping..&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt;[Fase I.pdf](https://github.com/user-attachments/files/17335197/Fase.I.pdf)&gt;*
+
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+*&lt;[Diagrama_Atividades.pdf](https://github.com/user-attachments/files/17335213/Diagrama_Atividades.pdf)&gt;*
+
 
 # Diagrama de Casos de Uso
 
@@ -48,7 +53,9 @@
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+*&lt;
+[Descrição dos Requisitos dos Casos de Usos - Página1.pdf](https://github.com/user-attachments/files/17335382/Descricao.dos.Requisitos.dos.Casos.de.Usos.-.Pagina1.pdf)&gt;*
+
 
 # Diagrama de Sequência
 
