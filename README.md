@@ -19,13 +19,19 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Pizza-Express*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *Bruno Cruz Bregion Novo e Vinícius Silva Almeida*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+
+O projeto de Introdução à Engenharia de Software teve como objetivo desenvolver um sistema de software para a rede de fast food Pizza-Express, que apresentava queda de 30% nas vendas devido a problemas de entrega. Como nossos concorrentes conseguem entregar em menos de 30 minutos, nosso objetivo é implementar soluções que tornem a entrega mais eficiente.
+
+O diretor de dados, Elonn Muske, desenvolveu um aplicativo que detecta a loja Pizza-Express mais próxima do cliente e otimiza o pedido. Este projeto envolve a criação de uma loja de varejo sem local de varejo, com o objetivo de receber, preparar e enviar pedidos em 10 a 15 minutos.
+
+A equipe deverá atuar de forma profissional e colaborativa, consciente da importância do trabalho para o futuro da Pizza-Express, e atender à urgência declarada pelo patrocinador Papa-Léguas Shipping..
+
 
 # Documentação
 
