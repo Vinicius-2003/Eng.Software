@@ -41,21 +41,31 @@ A equipe deverá atuar de forma profissional e colaborativa, consciente da impor
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;[Fase I.pdf](https://github.com/user-attachments/files/17335197/Fase.I.pdf)&gt;*
 
+![image](https://github.com/user-attachments/assets/9ae203fe-b1fe-4983-b5bc-78d35d36e9a0)
+
+
 
 # Diagrama de Atividades
 
 *&lt;[Diagrama_Atividades.pdf](https://github.com/user-attachments/files/17335213/Diagrama_Atividades.pdf)&gt;*
 
+![image](https://github.com/user-attachments/assets/c5b9f67c-df01-4321-8f0c-963be6886a58)
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt;![image](https://github.com/user-attachments/assets/9c117f07-05ee-4bb7-8ee8-142af15ada52)
+&gt;*
 
 # Descrição dos Casos de Uso
 
 *&lt;
 [Descrição dos Requisitos dos Casos de Usos - Página1.pdf](https://github.com/user-attachments/files/17335382/Descricao.dos.Requisitos.dos.Casos.de.Usos.-.Pagina1.pdf)&gt;*
 
+![image](https://github.com/user-attachments/assets/6cc16fce-df9e-4605-b1c3-7b6a2638e14b)
+
+![image](https://github.com/user-attachments/assets/930942fc-6d7c-4b7d-956c-e6bbd860fdaf)
+
+![image](https://github.com/user-attachments/assets/b8b59671-6e38-4838-932c-91295f030be1)
 
 # Diagrama de Sequência
 
