@@ -69,7 +69,7 @@ A equipe deverá atuar de forma profissional e colaborativa, consciente da impor
 
 # Diagrama de Sequência
 
-![DiagramaSequência](https://github.com/user-attachments/assets/22543c77-b8cc-4e62-b0c6-ac2d0c5fcda8)
+![DiagramaSequência](https://github.com/user-attachments/assets/2dff747f-0c39-4292-b23b-6bb61ee89364)
 
 # Diagrama de Classes
 
