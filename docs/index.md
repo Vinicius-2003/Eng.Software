@@ -77,7 +77,7 @@ A equipe deverá atuar de forma profissional e colaborativa, consciente da impor
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![DiagramaEstados](https://github.com/user-attachments/assets/936f68f7-d411-4aab-84b2-3029d3eec840)
 
 # Diagrama de Implantação
 
