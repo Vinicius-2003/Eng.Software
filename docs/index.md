@@ -69,7 +69,7 @@ A equipe deverá atuar de forma profissional e colaborativa, consciente da impor
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![DiagramaSequência](https://github.com/user-attachments/assets/22543c77-b8cc-4e62-b0c6-ac2d0c5fcda8)
 
 # Diagrama de Classes
 
@@ -81,7 +81,7 @@ A equipe deverá atuar de forma profissional e colaborativa, consciente da impor
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![DiagramaImplantação](https://github.com/user-attachments/assets/a0d1af61-64d1-44b9-8435-2fabc5b096f9)
 
 # Referências
 
