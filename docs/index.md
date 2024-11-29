@@ -73,7 +73,7 @@ A equipe deverá atuar de forma profissional e colaborativa, consciente da impor
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![etapaVI](https://github.com/user-attachments/assets/a3b2be15-321f-4c93-8802-d39b18f9c130)
 
 # Diagrama de Estados
 
